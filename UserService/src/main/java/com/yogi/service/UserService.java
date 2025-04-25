@@ -7,7 +7,7 @@ public interface UserService {
                     String lastName,
                     String email,
                     String password,
-                    String repeatPassword
+                    String repeatPassword);
 
-    );
+
 }
